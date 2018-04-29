@@ -6,20 +6,20 @@
    * 在单页面应用（如 vue）中，E 一般与数据库构建有关， M 一般与 store 模式 有关
    * 在 java web 应用中，E 一般与数据库构建有关， M 一般与 session 有关
 
-![image]()
+![image](https://github.com/lqAsuna/Domain-modeling/blob/master/image/result1.png)
 
 ## b
 ### 数据库建模(E-R 模型)
 - 按Task3要求，给出系统的E-R模型（数据逻辑模型）
 - 建模工具PowerDesigner（简称PD）或开源工具OpenSystemArchitect
 
-![image]()
+![image](https://github.com/lqAsuna/Domain-modeling/blob/master/image/result2.png)
 
 - 导出Mysql物理数据库的脚本
 
-![image]()
+![image](https://github.com/lqAsuna/Domain-modeling/blob/master/image/result3.png)
 
-![image]()
+![image](https://github.com/lqAsuna/Domain-modeling/blob/master/image/result4.png)
 
 - 简单叙说数据库逻辑模型与领域模型的异同
 
